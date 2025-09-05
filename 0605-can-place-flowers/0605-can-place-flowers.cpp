@@ -13,6 +13,9 @@ public:
             else {
                 if(zero != 0) {
                     slot = slot + ((zero - 1) / 2);
+                    if(n <= slot) {
+                        return true;
+                    }
                     zero = 0;
                 }
             }
