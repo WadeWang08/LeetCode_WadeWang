@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0345-reverse-vowels-of-a-string) |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
