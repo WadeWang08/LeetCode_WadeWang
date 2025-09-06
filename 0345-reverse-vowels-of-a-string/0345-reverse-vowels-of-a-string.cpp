@@ -1,61 +1,48 @@
 class Solution {
 public:
 
-    int i = 0;
-    int j = 0;
-
-    void setlength(string s) {
-        j = s.length();
+    bool IsVowel(char a) { 
+        switch (a) { 
+            case 'a': 
+            case 'A': 
+            case 'e': 
+            case 'E': 
+            case 'i': 
+            case 'I': 
+            case 'o': 
+            case 'O': 
+            case 'u': 
+            case 'U': 
+                return true; 
+            } 
+        return false; 
     }
-
-    bool IsVowel(char a) {
-        switch (a) {
-            case 'a':
-            case 'A':
-            case 'e':
-            case 'E':
-            case 'i':
-            case 'I':
-            case 'o':
-            case 'O':
-            case 'u':
-            case 'U':
-                return true;
-        }
-        return false;
-    }
-        
-    bool FindFront(string s) {
-        while(i != s.size() && i != j) {
-            if(IsVowel(s[i])) {
-                return true;
-            }
-            i++;
-        }
-        return false;
-    }
-    
-    bool FindLast(string s) {
-        while(j != -1 && i != j) {
-            if(IsVowel(s[j])) {
-                return true;
-            }
-            j--;
-        }
-        return false;
-    }
-
 
     string reverseVowels(string s) {
+        int n = s.size();
+        int i = 0;
+        int j = n - 1;
+        char temp = 'a';
 
-        setlength(s);
-        string result = s;
-        while(FindFront(s) && FindLast(s)) {
-            result[i] = s[j];
-            result[j] = s[i];
+        while (i < j) {
+
+            while ( i < n && !IsVowel(s[i])) {
+                i++;
+            }
+            while ( j >= 0 && !IsVowel(s[j])) {
+                j--;
+            }
+            // Prevent Additional Swap
+            if (i >= j) {
+                break;
+            }
+            // Swap now
+            temp = s[i];
+            s[i] = s[j];
+            s[j] = temp;
             i++;
-            j--; 
+            j--;
         }
-        return result;
+        return s;
     }
 };
