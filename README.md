@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
