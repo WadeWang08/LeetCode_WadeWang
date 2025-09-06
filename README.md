@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1798-max-number-of-k-sum-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
