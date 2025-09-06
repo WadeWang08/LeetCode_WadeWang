@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0011-container-with-most-water) |
+| [0238-product-of-array-except-self](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1798-max-number-of-k-sum-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
