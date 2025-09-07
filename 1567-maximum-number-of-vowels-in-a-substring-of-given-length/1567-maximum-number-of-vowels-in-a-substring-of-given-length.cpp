@@ -22,6 +22,9 @@ public:
                 currVowels++;
             }
         }
+        if (currVowels == k) { 
+            return k;
+        }
         maxVowels = currVowels;
 
         for (int j = k; j < s.size(); j++) {
