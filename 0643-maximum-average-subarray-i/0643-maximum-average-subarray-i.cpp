@@ -11,7 +11,6 @@ public:
 
         for (size_t j = k; j < nums.size(); j++) {
             temp = ((temp * k) - nums[j-k] + nums[j]) / k;
-            std::cout << temp;
             if (temp > maxavg) {
                 maxavg = temp;
             }
