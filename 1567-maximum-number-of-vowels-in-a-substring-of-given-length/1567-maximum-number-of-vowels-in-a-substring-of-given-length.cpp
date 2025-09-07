@@ -32,6 +32,9 @@ public:
                 currVowels++;
             }
             maxVowels = max(maxVowels, currVowels);
+            if(maxVowels == k){
+                return k;
+            }
         }
         return maxVowels;
     }
