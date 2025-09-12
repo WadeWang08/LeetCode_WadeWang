@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
+| [0806-domino-and-tromino-tiling](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
