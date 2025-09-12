@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0011-container-with-most-water) |
+| [0198-house-robber](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0334-increasing-triplet-subsequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
