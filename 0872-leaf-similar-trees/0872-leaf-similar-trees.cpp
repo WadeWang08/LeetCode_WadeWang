@@ -19,12 +19,8 @@ public:
         if(leaves1.size() != leaves2.size()) {
             return false;
         }
-        while(!leaves1.empty() && !leaves2.empty()) {
-            int a = leaves1.back();
-            int b = leaves2.back();
-            if(a != b) {return false;}
-            leaves1.pop_back();
-            leaves2.pop_back();
+        for(int i = 0; i < leaves1.size(); i++) {
+            if(leaves1[i] != leaves2[i]) return false;
         }
         return true;
 
