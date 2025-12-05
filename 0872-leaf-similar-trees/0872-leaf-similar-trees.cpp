@@ -1,0 +1,44 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    bool leafSimilar(TreeNode* root1, TreeNode* root2) {
+        vector<int> leaves1, leaves2;
+        collectLeaf(root1, leaves1);
+        collectLeaf(root2, leaves2);
+
+        if(leaves1.size() != leaves2.size()) {
+            return false;
+        }
+        while(!leaves1.empty() && !leaves2.empty()) {
+            int a = leaves1.back();
+            int b = leaves2.back();
+            if(a != b) {return false;}
+            leaves1.pop_back();
+            leaves2.pop_back();
+        }
+        return true;
+
+    }
+
+    void collectLeaf(TreeNode* root, vector<int>& leaf) {
+        if (root == nullptr) {return;}
+
+        if (root->left == nullptr && root->right == nullptr) {
+            leaf.push_back(root->val);
+            return;
+        }
+        collectLeaf(root->left, leaf);
+        collectLeaf(root->right, leaf);
+        return;
+    }
+};
