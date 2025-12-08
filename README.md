@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -169,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
