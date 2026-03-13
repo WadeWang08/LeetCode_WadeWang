@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2485-find-the-pivot-integer) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1833-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2485-find-the-pivot-integer) |
 ## Sliding Window
 |  |
 | ------- |
