@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2485-find-the-pivot-integer) |
 ## Array
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0700-search-in-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
