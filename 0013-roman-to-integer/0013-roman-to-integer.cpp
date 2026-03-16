@@ -2,7 +2,7 @@ class Solution {
 public:
     int romanToInt(string s) {
         int result = 0;
-        char prev = 'A';
+        char prev = '\0';
         for (char c : s) {
             switch (c) {
                 case 'M':
@@ -43,6 +43,8 @@ public:
                     break;
                 case 'I':
                     result += 1;
+                default:
+                    break;
             }
             prev = c;
         }
