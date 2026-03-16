@@ -16,10 +16,8 @@ public:
         if (!record[room]) {
             record[room] = true;
 
-            if (!keymap[room].empty()) {
-                for (int keys : keymap[room]) {
-                    dfs(keys, keymap, record);
-                }
+            for (int keys : keymap[room]) {
+               dfs(keys, keymap, record);
             }
         }
     }
