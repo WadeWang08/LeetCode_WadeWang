@@ -3,7 +3,7 @@ public:
     string intToRoman(int num) {
         string result = "";
         int thousand = num / 1000;
-        for (int i = 0; i < num/1000; i++) {
+        for (int i = 0; i < thousand; i++) {
             result += "M";
         }
         num = num % 1000;
