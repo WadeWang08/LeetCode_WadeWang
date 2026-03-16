@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2523-closest-prime-numbers-in-range) |
 ## Array
 |  |
 | ------- |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Number Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
