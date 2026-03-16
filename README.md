@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0012-integer-to-roman) |
 | [1319-unique-number-of-occurrences](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1777-determine-if-two-strings-are-close) |
