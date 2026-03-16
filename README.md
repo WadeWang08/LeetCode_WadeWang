@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0394-decode-string) |
 ## Queue
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
