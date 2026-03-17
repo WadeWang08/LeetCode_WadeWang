@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0394-decode-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
