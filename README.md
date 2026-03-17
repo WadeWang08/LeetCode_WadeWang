@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0605-can-place-flowers) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1777-determine-if-two-strings-are-close) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1046-max-consecutive-ones-iii) |
 ## Memoization
 |  |
@@ -256,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
