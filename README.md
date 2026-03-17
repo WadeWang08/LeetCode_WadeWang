@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0394-decode-string) |
 ## Queue
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0547-number-of-provinces) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
