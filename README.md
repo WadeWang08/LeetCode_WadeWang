@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0392-is-subsequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0202-happy-number) |
 | [1319-unique-number-of-occurrences](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1777-determine-if-two-strings-are-close) |
