@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/1236-n-th-tribonacci-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2470-removing-stars-from-a-string) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0258-add-digits) |
 | [2523-closest-prime-numbers-in-range](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/2523-closest-prime-numbers-in-range) |
 ## Graph Theory
 |  |
