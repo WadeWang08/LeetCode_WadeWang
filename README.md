@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0198-house-robber) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/WadeWang08/LeetCode_WadeWang/tree/master/0202-happy-number) |
